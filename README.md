@@ -1,9 +1,6 @@
 # git 教程
-# An important Tip
+# An important Tips
 
-<<<<<<< HEAD
--branch_1.0
+-branch_3.0
 
-=======
->>>>>>> branch_2.0
--branch_2.0
+-branch_333
